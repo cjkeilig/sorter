@@ -1,4 +1,4 @@
 POI=C:/Users/cory.keilig/sorter/POI/
 OID=C:/Users/cory.keilig/sorter/OID/
 POD=C:/Users/cory.keilig/sorter/POOD/
-MOVE:tytyeytweit:Test:
+MOVE:keyword:Test:
